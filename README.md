@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mahavir Deora</h1>
+><h1 align="center">Hi 👋, I'm Mahavir Deora</h1>
 <h3 align="center">A passionate Data Engineer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie/coding-error-8928574"
+<img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie/coding-error-8928574">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahavir99&label=Profile%20views&color=0e75b6&style=flat" alt="mahavir99" /> </p>
 
 - 🔭 I’m currently working on **Python,Teradata**
